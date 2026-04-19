@@ -66,6 +66,8 @@ python bot.py
 
 ---
 
+## Credit :- Anonymous, DK, Shivam, hydrogram 
+
 ## 🗄️ MongoDB Collections
 
 | Collection  | Purpose                          |
